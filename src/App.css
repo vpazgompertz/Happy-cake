@@ -1,0 +1,58 @@
+#root {
+  margin: 0;
+}
+
+.container-navbar {
+  padding: 0.5rem;
+  background-color: red;
+  padding-top: 1rem;
+}
+
+.container-navbar ul li a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.container-navbar ul {
+  list-style-type: none;
+}
+
+.home {
+  margin-right: 1rem;
+}
+
+.title {
+  color: #fff !important;
+  margin-left: 70rem;
+  font-size: 20px;
+}
+
+.container-home{
+  text-align: center;
+  margin-top: 2rem;
+}
+
+.icon{
+  font-size: 100px;
+}
+
+.container-contact{
+text-align: center;
+margin-top: 2rem;
+}
+
+.form-text{
+  height: 10rem;
+}
+
+.btn-submit {
+  border: none !important;
+  margin-top: 2rem;
+}
+
+.btn:hover{
+  background-color: blue !important;
+}
+
+
+
